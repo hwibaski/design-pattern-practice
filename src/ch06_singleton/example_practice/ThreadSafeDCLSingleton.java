@@ -1,6 +1,4 @@
-package ch05_singleton.example_practice;
-
-import java.io.Serializable;
+package ch06_singleton.example_practice;
 
 /**
  * multi-thread safe

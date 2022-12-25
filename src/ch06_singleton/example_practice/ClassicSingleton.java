@@ -1,4 +1,4 @@
-package ch05_singleton.example_practice;
+package ch06_singleton.example_practice;
 
 /**
  * multi-thread unsafe

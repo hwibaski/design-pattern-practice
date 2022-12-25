@@ -1,8 +1,6 @@
-package ch04_factory_method.example_practice.after_factory_method;
+package ch05_abstract_factory_method._02_after;
 
 
-import ch05_abstract_factory_method._02_after.Anchor;
-import ch05_abstract_factory_method._02_after.Wheel;
 
 public class Ship {
 
