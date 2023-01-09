@@ -10,5 +10,4 @@ public interface ProductBuilder {
     ProductBuilder discountRateAndDiscountType(int discountRate, DiscountType discountType);
 
     Product build();
-
 }

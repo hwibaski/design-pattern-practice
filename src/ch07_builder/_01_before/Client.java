@@ -11,5 +11,4 @@ public class Client {
         product.setDiscountRate(10);
         System.out.println(product);
     }
-
 }
